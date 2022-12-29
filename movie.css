@@ -92,7 +92,7 @@ main{
     height: 150px;
     width: 200px;
     color: #fff;
-    font-weight: 600;
+    font-weight:400px;
 }
 #confirm-purchase{
     display: grid;
