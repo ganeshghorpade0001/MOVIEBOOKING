@@ -68,7 +68,7 @@ main{
 .movie-img-wrapper{
     background-size: cover;
     width: auto;
-    height: 600px;
+    height: 400px;
 }
 #booker{
     display: flex;
